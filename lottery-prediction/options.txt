@@ -4,3 +4,12 @@ options:
 2. regularization of hidden layers (?)
 3. polynomial fit (polynomial regression)
 4. linear regression
+
+---------------
+overfit 1: 39%
+look_back = 100
+inputs = int(size) 
+print(inputs)
+model = Sequential()
+model.add(Dense(inputs, input_dim=look_back, activation='sigmoid'))
+model.add(Dense(1, activation=para_relu))
