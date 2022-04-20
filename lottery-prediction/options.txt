@@ -1,0 +1,6 @@
+options:
+
+1. recurrent nn
+2. regularization of hidden layers (?)
+3. polynomial fit (polynomial regression)
+4. linear regression
