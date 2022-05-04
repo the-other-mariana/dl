@@ -1,0 +1,3 @@
+donde aplican (imagenes, texto)
+funcion de costo
+arquitectura
